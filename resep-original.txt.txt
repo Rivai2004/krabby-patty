@@ -3,3 +3,5 @@ resep original
 2. keju
 3. daging
 4. roti
+5. selada
+6. timun
